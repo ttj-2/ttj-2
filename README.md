@@ -2,7 +2,7 @@
 
 I graduated with a B.S. in Engineering Physics from University of Illinois Urbana-Champaign in spring '23 and I'm continuting my studies toward a M.S. in Atmospheric Science at Colorado State Univeristy in fall '23!
 
-- I'm currently working on analysis of urban aerosol plume data, increasing detail of particle classifications for intercomparison with mass spectrometery field data.
+- I'm currently working on analysis of urban aerosol plume data, increasing detail of particle classifications for intercomparison with mass spectrometery field data
 - Feel free to reach out to me at either of the following email addresses: ttj2@illinois.edu  ttj2@colostate.edu
 <!--
 **ttj-2/ttj-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
